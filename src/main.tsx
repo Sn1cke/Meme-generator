@@ -6,3 +6,5 @@ import "./index.scss";
 const root = ReactDOM.createRoot(
   document.querySelector("#root") as HTMLDivElement
 );
+
+root.render(<App />);
